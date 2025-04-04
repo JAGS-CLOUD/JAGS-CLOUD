@@ -8,8 +8,7 @@ Are you interested in a career in Machine Learning but feel overwhelmed by the u
 - [What You'll Learn](#what-youll-learn)  
 - [Unique Features](#unique-features)  
 - [Prerequisites](#prerequisites)  
-- [Enrollment](#enrollment)  
-- [Contact](#contact)  
+ 
 
 ## Course Overview  
 
