@@ -1,6 +1,6 @@
 # AlphaML: Machine Learning Course  
 
-Are you interested in a career in Machine Learning but feel overwhelmed by the unstructured content available? Unsure if your educational background or professional experience is enough to dive into ML? Join our **2-month AlphaML program**, where we start from scratch and empower you to execute impactful hackathons and industry-grade projects!  
+Are you interested in a career in Machine Learning but feel overwhelmed by the unstructured content available? Unsure if your educational background or professional experience is enough to dive into ML? Learn from **2-month AlphaML program**, where you start from scratch and  get empowered to execute impactful hackathons and industry-grade projects!  
 
 ## Table of Contents  
 
